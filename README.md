@@ -4,7 +4,10 @@ A small Pong recreation developed in Unity 6.5 using C#.
 
 The project was created as a gameplay programming exercise, focusing on player input, 2D physics, game-state management and a simple AI-controlled opponent.
 
-## Technologies
+## Demo
+[Watch the gameplay demo](https://youtu.be/0iBygg5czPU)
+
+## Technical Highlights
 - Unity 6.5
 - C#
 - Unity 2D physics
@@ -35,5 +38,3 @@ Requirements:
 
 To run, clone the repository and open the project folder using Unity. Enter play mode directly through the engine.
 
-## Demo
-[Watch the gameplay demo]()
